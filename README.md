@@ -26,11 +26,7 @@ Game Modding • Programming • Interactive Applications
 ## 🚀 Projects
 
 * **submarines game:** A simple submarines game running on C#,part of a school project..
-
-
-## 📊 GitHub Stats
-<div align="center">
-
+* 
 > "Hard work beats talent when talent doesn't work hard."
 
 </div>
