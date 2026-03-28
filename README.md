@@ -29,12 +29,6 @@ Game Modding • Programming • Interactive Applications
 
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LiranKasta&show_icons=true&theme=radical" alt="LK's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiranKasta&layout=compact&theme=radical" alt="LK's Top Langs" />
-</p>
-
 <div align="center">
 
 > "Hard work beats talent when talent doesn't work hard."
